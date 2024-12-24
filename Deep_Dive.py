@@ -37,7 +37,7 @@ st.write("""
 """)
 
 # Add an image for better visual appeal
-st.image("image2.png", caption="Real Estate Data", use_column_width=True)
+st.image("image2.png", caption="Real Estate Data", use_container_width=True)
 
 st.write("اولاً: خلونا نبدأ نحدد المنطقة بالرياض بالضبط")
 # Step 1: Filter by Location
