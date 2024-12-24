@@ -16,7 +16,7 @@
 
 ## 2. The link of our streamlit app
 
-- https://usecase-6-project-3-deep-dive.streamlit.app/
+- https://insightful-real-estate-analysis.onrender.com
 
 
 
